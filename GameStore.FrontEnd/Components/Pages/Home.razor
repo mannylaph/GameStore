@@ -1,0 +1,62 @@
+﻿@page "/"
+@using GameStore.FrontEnd.Models
+
+<PageTitle>Game Catalog</PageTitle>
+
+<table class="table table-stripped table-bordered table-hover mt-5">
+    <thead class="table-dark">
+        <th>Id</th>
+        <th>Name</th>
+        <th>Genre</th>
+        <th class="text-end">Price</th>
+        <th>Release Date</th>
+        <th></th>
+    </thead>
+    <tbody>
+      @foreach (var game in games){
+        <tr>
+            <td>@game.id</td>
+            <td>@game.Name</td>
+            <td>@game.Genre</td>
+            <td class="text-end">@game.Price.ToString("C2")</td>
+            <td>@game.ReleaseDate</td>
+        </tr>
+      }  
+    
+    </tbody>
+</table>
+
+@code{
+    private GameSummary[] games  = 
+   [
+   new(){
+    id = 1,
+    Name = "Demo Rash",
+    Genre = "Motor Bike",
+    Price = 29.11M,
+    ReleaseDate = new DateOnly(2000,07,21)},
+
+    new(){
+    id = 2,
+    Name = "FIFA 23",
+    Genre = "Soccer",
+    Price = 49.15M,
+    ReleaseDate = new DateOnly(2023,08,01)},
+
+
+    new(){
+    id = 3,
+    Name = "Final Fantasy",
+    Genre = "Role Playing",
+    Price = 209.31M,
+    ReleaseDate = new DateOnly(2024,07,11)},
+
+    new(){
+    id = 4,
+    Name = "Street Fighter",
+    Genre = "Fighting",
+    Price = 29.31M,
+    ReleaseDate = new DateOnly(1992,09,30)
+   }
+   ];
+}
