@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TlHqfnxKJ7GsbqhY8dSsYMtoGAV2wuABONcQIIySJBY=",
+  "Hash": "7JbHv/NSbgVyOHJ8MH2c5vyHWzYnYnMNufSBxv/kyrc=",
   "Source": "GameStore.FrontEnd",
   "BasePath": "_content/GameStore.FrontEnd",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "GameStore.FrontEnd\\wwwroot",
       "Source": "GameStore.FrontEnd",
-      "ContentRoot": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\wwwroot\\",
       "BasePath": "_content/GameStore.FrontEnd",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\compressed\\6sdt6bwttb-4kywy7iv6g.gz",
+      "Identity": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\compressed\\6sdt6bwttb-4kywy7iv6g.gz",
       "SourceId": "GameStore.FrontEnd",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GameStore.FrontEnd",
       "RelativePath": "app#[.{fingerprint=4kywy7iv6g}]?.css.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\wwwroot\\app.css",
+      "RelatedAsset": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\wwwroot\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "zcos8w4b7w",
       "Integrity": "rQ06ZVppJMbFntqcFRQT6szW4P5LSAxdi1yON8P8sdE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\wwwroot\\app.css"
+      "OriginalItemSpec": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\compressed\\n99s1o0eqm-3675tpl0z4.gz",
+      "Identity": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\compressed\\n99s1o0eqm-3675tpl0z4.gz",
       "SourceId": "GameStore.FrontEnd",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GameStore.FrontEnd",
       "RelativePath": "GameStore.FrontEnd#[.{fingerprint=3675tpl0z4}]?.styles.css.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStore.FrontEnd.styles.css",
+      "RelatedAsset": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStore.FrontEnd.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "eqltgqiy0d",
       "Integrity": "upR0/RlNbCbvfZlpju9NG4SqAgt/FRnbPAhPeqyOCXc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStore.FrontEnd.styles.css"
+      "OriginalItemSpec": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStore.FrontEnd.styles.css"
     },
     {
-      "Identity": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\compressed\\stk0v6sysc-3675tpl0z4.gz",
+      "Identity": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\compressed\\stk0v6sysc-3675tpl0z4.gz",
       "SourceId": "GameStore.FrontEnd",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GameStore.FrontEnd",
       "RelativePath": "GameStore.FrontEnd#[.{fingerprint=3675tpl0z4}]!.bundle.scp.css.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStore.FrontEnd.bundle.scp.css",
+      "RelatedAsset": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStore.FrontEnd.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "eqltgqiy0d",
       "Integrity": "upR0/RlNbCbvfZlpju9NG4SqAgt/FRnbPAhPeqyOCXc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStore.FrontEnd.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStore.FrontEnd.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStore.FrontEnd.styles.css",
+      "Identity": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStore.FrontEnd.styles.css",
       "SourceId": "GameStore.FrontEnd",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
       "BasePath": "_content/GameStore.FrontEnd",
       "RelativePath": "GameStore.FrontEnd#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -98,13 +98,13 @@
       "Integrity": "i0TEyZMLiGJLi/4C/Aml4BR53hXoVn0Zm9XQg/GXR5c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStore.FrontEnd.styles.css"
+      "OriginalItemSpec": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStore.FrontEnd.styles.css"
     },
     {
-      "Identity": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStore.FrontEnd.bundle.scp.css",
+      "Identity": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStore.FrontEnd.bundle.scp.css",
       "SourceId": "GameStore.FrontEnd",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/GameStore.FrontEnd",
       "RelativePath": "GameStore.FrontEnd#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -119,13 +119,13 @@
       "Integrity": "i0TEyZMLiGJLi/4C/Aml4BR53hXoVn0Zm9XQg/GXR5c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStore.FrontEnd.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStore.FrontEnd.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\wwwroot\\app.css",
       "SourceId": "GameStore.FrontEnd",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\wwwroot\\",
       "BasePath": "_content/GameStore.FrontEnd",
       "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -146,7 +146,7 @@
   "Endpoints": [
     {
       "Route": "app.4kywy7iv6g.css",
-      "AssetFile": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\compressed\\6sdt6bwttb-4kywy7iv6g.gz",
+      "AssetFile": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\compressed\\6sdt6bwttb-4kywy7iv6g.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -169,7 +169,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Oct 2025 14:47:51 GMT"
+          "Value": "Tue, 14 Oct 2025 17:14:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -209,7 +209,7 @@
     },
     {
       "Route": "app.4kywy7iv6g.css",
-      "AssetFile": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\wwwroot\\app.css",
+      "AssetFile": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -230,7 +230,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Oct 2025 14:47:51 GMT"
+          "Value": "Tue, 14 Oct 2025 17:14:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -254,7 +254,7 @@
     },
     {
       "Route": "app.4kywy7iv6g.css.gz",
-      "AssetFile": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\compressed\\6sdt6bwttb-4kywy7iv6g.gz",
+      "AssetFile": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\compressed\\6sdt6bwttb-4kywy7iv6g.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -275,7 +275,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Oct 2025 14:47:51 GMT"
+          "Value": "Tue, 14 Oct 2025 17:14:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -307,7 +307,7 @@
     },
     {
       "Route": "app.css",
-      "AssetFile": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\compressed\\6sdt6bwttb-4kywy7iv6g.gz",
+      "AssetFile": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\compressed\\6sdt6bwttb-4kywy7iv6g.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -330,7 +330,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Oct 2025 14:47:51 GMT"
+          "Value": "Tue, 14 Oct 2025 17:14:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -362,7 +362,7 @@
     },
     {
       "Route": "app.css",
-      "AssetFile": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\wwwroot\\app.css",
+      "AssetFile": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -383,7 +383,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Oct 2025 14:47:51 GMT"
+          "Value": "Tue, 14 Oct 2025 17:14:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -399,7 +399,7 @@
     },
     {
       "Route": "app.css.gz",
-      "AssetFile": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\compressed\\6sdt6bwttb-4kywy7iv6g.gz",
+      "AssetFile": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\compressed\\6sdt6bwttb-4kywy7iv6g.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -420,7 +420,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Oct 2025 14:47:51 GMT"
+          "Value": "Tue, 14 Oct 2025 17:14:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -444,7 +444,7 @@
     },
     {
       "Route": "GameStore.FrontEnd.3675tpl0z4.bundle.scp.css",
-      "AssetFile": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\compressed\\stk0v6sysc-3675tpl0z4.gz",
+      "AssetFile": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\compressed\\stk0v6sysc-3675tpl0z4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -467,7 +467,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Oct 2025 15:54:09 GMT"
+          "Value": "Tue, 14 Oct 2025 17:14:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -507,7 +507,7 @@
     },
     {
       "Route": "GameStore.FrontEnd.3675tpl0z4.bundle.scp.css",
-      "AssetFile": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStore.FrontEnd.bundle.scp.css",
+      "AssetFile": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStore.FrontEnd.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -528,7 +528,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Oct 2025 15:54:09 GMT"
+          "Value": "Tue, 14 Oct 2025 17:14:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -552,7 +552,7 @@
     },
     {
       "Route": "GameStore.FrontEnd.3675tpl0z4.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\compressed\\stk0v6sysc-3675tpl0z4.gz",
+      "AssetFile": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\compressed\\stk0v6sysc-3675tpl0z4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -573,7 +573,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Oct 2025 15:54:09 GMT"
+          "Value": "Tue, 14 Oct 2025 17:14:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -605,7 +605,7 @@
     },
     {
       "Route": "GameStore.FrontEnd.3675tpl0z4.styles.css",
-      "AssetFile": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\compressed\\n99s1o0eqm-3675tpl0z4.gz",
+      "AssetFile": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\compressed\\n99s1o0eqm-3675tpl0z4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -628,7 +628,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Oct 2025 15:54:09 GMT"
+          "Value": "Tue, 14 Oct 2025 17:14:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -668,7 +668,7 @@
     },
     {
       "Route": "GameStore.FrontEnd.3675tpl0z4.styles.css",
-      "AssetFile": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStore.FrontEnd.styles.css",
+      "AssetFile": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStore.FrontEnd.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -689,7 +689,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Oct 2025 15:54:09 GMT"
+          "Value": "Tue, 14 Oct 2025 17:14:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -713,7 +713,7 @@
     },
     {
       "Route": "GameStore.FrontEnd.3675tpl0z4.styles.css.gz",
-      "AssetFile": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\compressed\\n99s1o0eqm-3675tpl0z4.gz",
+      "AssetFile": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\compressed\\n99s1o0eqm-3675tpl0z4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -734,7 +734,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Oct 2025 15:54:09 GMT"
+          "Value": "Tue, 14 Oct 2025 17:14:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -766,7 +766,7 @@
     },
     {
       "Route": "GameStore.FrontEnd.bundle.scp.css",
-      "AssetFile": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\compressed\\stk0v6sysc-3675tpl0z4.gz",
+      "AssetFile": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\compressed\\stk0v6sysc-3675tpl0z4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -789,7 +789,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Oct 2025 15:54:09 GMT"
+          "Value": "Tue, 14 Oct 2025 17:14:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -821,7 +821,7 @@
     },
     {
       "Route": "GameStore.FrontEnd.bundle.scp.css",
-      "AssetFile": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStore.FrontEnd.bundle.scp.css",
+      "AssetFile": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStore.FrontEnd.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -842,7 +842,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Oct 2025 15:54:09 GMT"
+          "Value": "Tue, 14 Oct 2025 17:14:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -858,7 +858,7 @@
     },
     {
       "Route": "GameStore.FrontEnd.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\compressed\\stk0v6sysc-3675tpl0z4.gz",
+      "AssetFile": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\compressed\\stk0v6sysc-3675tpl0z4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -879,7 +879,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Oct 2025 15:54:09 GMT"
+          "Value": "Tue, 14 Oct 2025 17:14:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -903,7 +903,7 @@
     },
     {
       "Route": "GameStore.FrontEnd.styles.css",
-      "AssetFile": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\compressed\\n99s1o0eqm-3675tpl0z4.gz",
+      "AssetFile": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\compressed\\n99s1o0eqm-3675tpl0z4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -926,7 +926,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Oct 2025 15:54:09 GMT"
+          "Value": "Tue, 14 Oct 2025 17:14:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -958,7 +958,7 @@
     },
     {
       "Route": "GameStore.FrontEnd.styles.css",
-      "AssetFile": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStore.FrontEnd.styles.css",
+      "AssetFile": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStore.FrontEnd.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -979,7 +979,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Oct 2025 15:54:09 GMT"
+          "Value": "Tue, 14 Oct 2025 17:14:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -995,7 +995,7 @@
     },
     {
       "Route": "GameStore.FrontEnd.styles.css.gz",
-      "AssetFile": "C:\\Users\\EdidiongJames\\GameStore\\GameStore.FrontEnd\\obj\\Debug\\net9.0\\compressed\\n99s1o0eqm-3675tpl0z4.gz",
+      "AssetFile": "C:\\Users\\LP6\\GameStore\\GameStore\\gamestore.frontend\\obj\\Debug\\net9.0\\compressed\\n99s1o0eqm-3675tpl0z4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1016,7 +1016,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 12 Oct 2025 15:54:09 GMT"
+          "Value": "Tue, 14 Oct 2025 17:14:23 GMT"
         },
         {
           "Name": "Cache-Control",
